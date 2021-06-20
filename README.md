@@ -118,7 +118,7 @@ There are the following methods in the  Pizza Detail API
     print(response.text)
 
 
-###  4 POST Method to create new  Pizza Detail
+###  5 POST Method to create new  Pizza Detail
     You can create new pizza Detail to add in the database
     You should provide the pizza detail eg. pizzaType, pizzaSize and Toppings of pizza
 
